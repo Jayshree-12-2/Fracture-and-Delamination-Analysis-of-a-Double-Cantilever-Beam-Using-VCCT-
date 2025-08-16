@@ -1,0 +1,1 @@
+# Fracture-and-Delamination-Analysis-of-a-Double-Cantilever-Beam-Using-VCCT-
